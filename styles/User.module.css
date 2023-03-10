@@ -1,0 +1,19 @@
+.user__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.user__item {
+    width: 100%;
+    max-width: 295px;
+    margin-top: 30px;
+    background-color: #2525d5;
+    padding: 8px 0px 8px 6px;
+    border-radius: 20px;
+    box-shadow: #2525d5 0px 2px 8px 0px;
+}

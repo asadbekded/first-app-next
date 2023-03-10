@@ -1,0 +1,29 @@
+.single__content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.single__box{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.single__list{
+    width: 100%;
+    max-width: 500px;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.single__item{
+    margin-bottom: 20px;
+}
+
+.post__content{
+    width: 100%;
+    max-width: 500px;
+}
